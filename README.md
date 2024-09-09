@@ -39,8 +39,10 @@ JWT_SECRET_KEY=<secret key>
 ## Run your backend
 // nodemon index.js
 
-##Run your frontend
+## Run your frontend
 //npm run dev
 
-##Go to 
+## Now Go to 
 //http://localhost:5173
+
+## Enjoy FoxChat 😉
