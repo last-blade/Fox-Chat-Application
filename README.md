@@ -1,7 +1,7 @@
 # Fox-Chat-Application
 Fox Chat is a dynamic and user-friendly messaging application built with the MERN stack (MongoDB, Express.js, React.js, and Node.js). Designed to offer a seamless and engaging chat experience, Fox Chat provides real-time communication capabilities with a sleek and intuitive interface.
 
-##Install all the given packages in the frontend folder
+## Install all the given packages in the frontend folder
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
     "axios": "^1.7.7",
@@ -18,7 +18,7 @@ Fox Chat is a dynamic and user-friendly messaging application built with the MER
     "web-vitals": "^4.2.3"
   },
 
-##Install all the given packages in the backend folder
+## Install all the given packages in the backend folder
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cookie-parser": "^1.4.6",
@@ -31,12 +31,12 @@ Fox Chat is a dynamic and user-friendly messaging application built with the MER
     "socket.io": "^4.7.5"
   }
 
-##Add .env file in backend folder
+## Add .env file in backend folder
 PORT=3000
 MONGODB_URI=<Your mongodb backend url>
 JWT_SECRET_KEY=<secret key>
 
-##Run your backend
+## Run your backend
 // nodemon index.js
 
 ##Run your frontend
